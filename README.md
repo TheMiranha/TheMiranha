@@ -1,6 +1,6 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-I'm [Lucas Miranda](https://github.com/TheMiranha), I am currently studying information security at a Brazilian college, I am a young person, with little experience in the job market.
+I'm [Lucas Miranda](https://github.com/TheMiranha), I am currently studying electronic Engineering at a federal institute in Brazil, I am a young person, with little experience in the job market.
 
 ---
 
