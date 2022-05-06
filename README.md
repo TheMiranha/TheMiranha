@@ -1,36 +1,30 @@
-<h4> Olá! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+## Olá, meu nome é Lucas Miranda!
 
-Meu nome é [Lucas Miranda](https://github.com/TheMiranha), atualmente estudo engenharia eletrônica em um instituto federal no Brasil.
-
----
-
-**Languages and Tools:**
-
-<p align="center">
-
-  <div align="center">
-  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-  </div>
-  </p>
-
----
-
-**Github Stats:**
-
-<p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=TheMiranha&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMiranha&count_private=true&theme=dracula">
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<p align="left"> 
+Desenvolvo aplicações <strong>Full Stack</strong>. Utilizo como linguagem principal o <strong>JavaScript</strong>, tanto para desenvolver sites, aplicações mobile, desktop e servidores.<br>
+No momento, livre para ofertas de trabalho.
 </p>
 
----
-  
+<p align="left">
+  🦄 Linguagens: <strong>JavaScript, PHP, Python, C, Java,SQL.</strong>
+</p>
 
-   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
+<p align="left">
+  💼 Ferramentas: <strong>React, React Native, Electron, Django, Git</strong>
+</p>
 
-<div align="right">
+<p align="left">
+  💌 Quer entrar em contato comigo? ⤵️
+</p>
 
-</div>
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucas.miranda.strapasson@gmail.com" /></a>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-miranda-496825237/" /></a>
+</p>  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=themiranha&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMiranha&count_private=true">
