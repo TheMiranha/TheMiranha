@@ -4,6 +4,7 @@
 <p align="left"> 
 Desenvolvo aplicações <strong>Full Stack</strong>. Utilizo como linguagem principal o <strong>JavaScript</strong>, tanto para desenvolver sites, aplicações mobile, desktop e servidores.<br>
 No momento, livre para ofertas de trabalho.
+[Portfólio](https://themiranha.github.io/lucas-portfolio/)
 </p>
 
 <p align="left">
