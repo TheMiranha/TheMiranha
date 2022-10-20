@@ -6,7 +6,7 @@ Desenvolvo aplicações <strong>Full Stack</strong>. Utilizo como linguagem prin
 No momento, livre para ofertas de trabalho.
 </p>
 <p>
-📚 Portfólio: https://themiranha.github.io/lucas-portfolio/
+📚 Portfólio: https://lucas-portfolio-sand.vercel.app/projects
 </p>
 <p align="left">
   🦄 Linguagens: <strong>JavaScript, PHP, Python, C, Java,SQL.</strong>
