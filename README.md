@@ -13,7 +13,7 @@ No momento, livre para ofertas de trabalho.
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>React, React Native, Electron, Django, Git</strong>
+  💼 Ferramentas: <strong>NextJS, Astro, Remix, Vite, React, React Native, Electron, Git</strong>
 </p>
 
 <p align="left">
